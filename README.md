@@ -29,17 +29,18 @@ responds to the email within seconds.
 ### AI Agent design view (Studio Web)
 ![Agent design view](Output%20Screenshots/agent_design_view.png)
 
-### Sent mail: NA
-![Sent mail NA](Output%20Screenshots/sent_mail_na.jpg)
+### Email examples
 
-### Sent mail: Maestro
-![Sent mail Maestro](Output%20Screenshots/sent_mail_maestro.jpg)
+<table>
+  <tr>
+    <td align="center"><a href="Output%20Screenshots/sent_mail_na.jpg"><img src="Output%20Screenshots/sent_mail_na.jpg" width="240" alt="Sent mail NA"></a><br><sub><b>Sent mail: NA</b></sub></td>
+    <td align="center"><a href="Output%20Screenshots/sent_mail_maestro.jpg"><img src="Output%20Screenshots/sent_mail_maestro.jpg" width="240" alt="Sent mail Maestro"></a><br><sub><b>Sent mail: Maestro</b></sub></td>
+    <td align="center"><a href="Output%20Screenshots/sent_mail_agentic.jpg"><img src="Output%20Screenshots/sent_mail_agentic.jpg" width="240" alt="Sent mail Agentic"></a><br><sub><b>Sent mail: Agentic</b></sub></td>
+    <td align="center"><a href="Output%20Screenshots/fwd_mail_fred.jpg"><img src="Output%20Screenshots/fwd_mail_fred.jpg" width="240" alt="Forwarded mail"></a><br><sub><b>Forwarded to a human</b></sub></td>
+  </tr>
+</table>
 
-### Sent mail: Agentic
-![Sent mail Agentic](Output%20Screenshots/sent_mail_agentic.jpg)
-
-### Email forwarded to a human
-![Forwarded mail](Output%20Screenshots/fwd_mail_fred.jpg)
+_Click any thumbnail to view it full size._
 
 ## Key Features
 
