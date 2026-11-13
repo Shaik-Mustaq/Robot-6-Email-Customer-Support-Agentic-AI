@@ -33,10 +33,10 @@ responds to the email within seconds.
 
 <table>
   <tr>
-    <td align="center"><a href="Output%20Screenshots/sent_mail_na.jpg"><img src="Output%20Screenshots/sent_mail_na.jpg" width="240" alt="Sent mail NA"></a><br><sub><b>Sent mail: NA</b></sub></td>
-    <td align="center"><a href="Output%20Screenshots/sent_mail_maestro.jpg"><img src="Output%20Screenshots/sent_mail_maestro.jpg" width="240" alt="Sent mail Maestro"></a><br><sub><b>Sent mail: Maestro</b></sub></td>
-    <td align="center"><a href="Output%20Screenshots/sent_mail_agentic.jpg"><img src="Output%20Screenshots/sent_mail_agentic.jpg" width="240" alt="Sent mail Agentic"></a><br><sub><b>Sent mail: Agentic</b></sub></td>
-    <td align="center"><a href="Output%20Screenshots/fwd_mail_fred.jpg"><img src="Output%20Screenshots/fwd_mail_fred.jpg" width="240" alt="Forwarded mail"></a><br><sub><b>Forwarded to a human</b></sub></td>
+    <td align="center"><a href="Output%20Screenshots/sent_mail_na.jpg"><img src="Output%20Screenshots/sent_mail_na.jpg" width="240" alt="Sent mail NA"></a>
+    <td align="center"><a href="Output%20Screenshots/sent_mail_maestro.jpg"><img src="Output%20Screenshots/sent_mail_maestro.jpg" width="240" alt="Sent mail Maestro"></a>
+    <td align="center"><a href="Output%20Screenshots/sent_mail_agentic.jpg"><img src="Output%20Screenshots/sent_mail_agentic.jpg" width="240" alt="Sent mail Agentic"></a>
+    <td align="center"><a href="Output%20Screenshots/fwd_mail_fred.jpg"><img src="Output%20Screenshots/fwd_mail_fred.jpg" width="240" alt="Forwarded mail"></a>
   </tr>
 </table>
 
