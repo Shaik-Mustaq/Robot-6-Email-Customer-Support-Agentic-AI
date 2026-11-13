@@ -11,11 +11,7 @@ question, or when the sender requests a human, it escalates the
 conversation to a human support person.
 
 ## Demo
-
-> **Demo video:** Add your demo video link here.
-
-The demonstration shows an email arriving with **"Hi Eugene"** in the
-message body. The Gmail event trigger starts the process, and Eugene
+The demonstration shows an email arriving with **"UiPath"** in the Subject. The Gmail event trigger starts the process, and Eugene
 responds to the email within seconds.
 
 ## Screenshots
@@ -141,13 +137,9 @@ or adapt it:
 8.  Test both the automatic-reply and human-escalation paths before
     using it with real support emails.
 
-**Important:** Do not commit passwords, API keys, OAuth tokens, or other
-secrets to this repository. Store credentials using the approved secure
-credential or connection mechanisms in your UiPath environment.
-
 ## Example Trigger and Escalation
 
--   **Example trigger phrase:** `Hi Eugene`
+-   **Example trigger phrase:** `uipath`
 -   **Human escalation phrase:** `Speak to human`
 -   **Human response expectation communicated to the sender:** Within 24
     hours
